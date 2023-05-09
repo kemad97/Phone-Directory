@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1683391208 source:d:\tel data\lab4\phone-directory-template_org\tests\prj\binarysearchtree.cpp
+	"binarysearchtree.h"
+
+1683360779 d:\tel data\lab4\phone-directory-template_org\tests\prj\binarysearchtree.h
+	<iostream>
+	<list>
+	<queue>
+
+1653404267 source:d:\tel data\lab4\phone-directory-template_org\tests\prj\main.cpp
+	<iostream>
+	<fstream>
+	"phonedirectory.h"
+	"ui.h"
+
+1653404670 d:\tel data\lab4\phone-directory-template_org\tests\prj\phonedirectory.h
+	<string>
+	"BinarySearchTree.h"
+
+1653403987 d:\tel data\lab4\phone-directory-template_org\tests\prj\ui.h
+	<iostream>
+	<string>
+	"phonedirectory.h"
+	"positionlistutils.h"
+
+1653403999 d:\tel data\lab4\phone-directory-template_org\tests\prj\positionlistutils.h
+	<iostream>
+	"phonedirectory.h"
+
+1653403637 source:d:\tel data\lab4\phone-directory-template_org\tests\prj\ui.cpp
+	"ui.h"
+
